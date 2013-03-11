@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"font_size": 14.0,
+	"hot_exit": false,
+	"remember_open_files": false,
+	"tab_size": 4,
+	"use_tab_stops": false,
+	"translate_tabs_to_spaces": true,
+    "detect_indentation": false,
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "highlight_line": true,
+    "trim_trailing_white_space_on_save": true
+}
