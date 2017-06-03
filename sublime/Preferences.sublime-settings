@@ -1,14 +1,16 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
-	"font_size": 14.0,
+	"color_scheme": "Packages/Colorsublime - Themes/Eiffel.tmTheme",
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
 	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"remember_open_files": false,
-	"tab_size": 4,
-	"use_tab_stops": false,
+	"scroll_past_end": false,
 	"translate_tabs_to_spaces": true,
-    "detect_indentation": false,
-    "bold_folder_labels": true,
-    "caret_style": "phase",
-    "highlight_line": true,
-    "trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
